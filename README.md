@@ -3,11 +3,11 @@ GraficTestOrientation
 
 Pretende-se uma aplicação gráfica que permita ao utilizador visualizar uma dada string alinhada na horizontal, vertical, diagonal "principal" ou diagonal "secundária", como é ilustrado na figura abaixo. A string e o seu alinhamento são especificados pelo utilizador. A string alinhada é colocada no lado direito da janela e é actualizada imediatamente depois do utilizador selecionar o alinhamento.
 
-![Exemplo funcionamento programa](http://prntscr.com/1dppb0)
+![Exemplo funcionamento programa](https://github.com/1111121RicardoBrandao/GraficTextOrientation/blob/master/img/pic1.png)
 
 A figura seguinte revela o comportamento da janela quando ela é redimensionada. Note-se que o aumento da dimensão da janela resulta no aumento dos intervalos entre as letras da string alinhada e que o tamanho das letras mantém-se.
 
-![Exemplo redimensionamento janela](http://prntscr.com/1dppj0)
+![Exemplo redimensionamento janela](https://github.com/1111121RicardoBrandao/GraficTextOrientation/blob/master/img/pic2.png)
 
 Para desenvolver esta aplicação:
 
