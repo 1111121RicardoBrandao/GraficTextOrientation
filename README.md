@@ -1,4 +1,4 @@
-GraficTestOrientation
+GraficTextOrientation
 =====================
 
 Pretende-se uma aplicação gráfica que permita ao utilizador visualizar uma dada string alinhada na horizontal, vertical, diagonal "principal" ou diagonal "secundária", como é ilustrado na figura abaixo. A string e o seu alinhamento são especificados pelo utilizador. A string alinhada é colocada no lado direito da janela e é actualizada imediatamente depois do utilizador selecionar o alinhamento.
